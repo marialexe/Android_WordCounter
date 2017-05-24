@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">WordCounter</string>
+    <string name="label_name">WordsCounter</string>
+    <string name="input_hint">Input your text here...</string>
+    <string name="button_counter">How many words you typed?</string>
+    <string name="answer_activity_title">Results</string>
+</resources>
